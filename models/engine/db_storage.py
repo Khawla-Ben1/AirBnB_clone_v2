@@ -146,4 +146,3 @@ class DBStorage():
                          "text": str}
         }
         return attributes
-
